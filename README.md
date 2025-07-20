@@ -1,8 +1,8 @@
-# Harvard CS50x — 2022 Solutions 😎
+# Harvard CS50x — 2022 Solutions
 
 - [Course Website](https://cs50.harvard.edu/x/2022/)  
 - [My Certificate](https://cs50.harvard.edu/certificates/0d4633ab-3935-4eb3-9a30-62f9a6f117ab)  
-- [Final Project Repository](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
+- [Final Project Repository](https://github.com/hadidadashzade)
 
 ---
 
