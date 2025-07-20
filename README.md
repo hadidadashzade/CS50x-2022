@@ -89,7 +89,7 @@ Completed:
 
 ### Week 10 – Emoji (Final Project)  
 Completed:  
-- [Volume Control with Hand Detection](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
+- [Volume Control with Hand Detection](https://github.com/hadidadashzade)
 
 ---
 
